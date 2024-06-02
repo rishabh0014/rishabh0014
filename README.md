@@ -43,3 +43,6 @@ Hi,I'm Rishabh Teli🙌. I'm currently pursuing my M.Tech from IIITB. I'm really
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh0014&show_icons=true&hide_border=true)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh0014&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh0014" /> </p>
